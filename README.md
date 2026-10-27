@@ -90,7 +90,7 @@ The underlying source dataset, methodology, and reporting units should be verifi
 ## Repository Contents
 
 - `Emissions Dashboard.lvdash.json` — Exported Databricks AI/BI dashboard definition
-- `screenshots/emissions-dashboard.png` — Dashboard preview
+- `emissions-dashboard.png` — Dashboard preview
 - `README.md` — Project overview and documentation
 
 ## Reproducing the Dashboard
