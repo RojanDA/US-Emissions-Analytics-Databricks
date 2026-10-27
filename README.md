@@ -8,7 +8,7 @@ The project investigates geographic emission patterns, high-emission states and 
 
 ## Dashboard Preview
 
-![US Emissions Dashboard](screenshots/emissions-dashboard.png)
+![US Emissions Dashboard](emissions-dashboard.png)
 
 ## Project Objectives
 
